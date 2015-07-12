@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="ivy-report.xsl"?>
+<ivy-report version="1.0">
+	<info
+		organisation="scala_classifaction_algorithms"
+		module="scala_classifaction_algorithms_2.10"
+		revision="1.0"
+		conf="optional"
+		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
+		date="20150711103328"/>
+	<dependencies>
+	</dependencies>
+</ivy-report>

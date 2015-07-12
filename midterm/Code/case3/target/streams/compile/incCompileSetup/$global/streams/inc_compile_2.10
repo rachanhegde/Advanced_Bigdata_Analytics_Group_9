@@ -1,0 +1,207 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.4
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+7 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$$anonfun$1.class
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$$anonfun$main$1.class
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$.class
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering.class
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering$$anonfun$1.class
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering$.class
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering.class
+binary dependencies:
+8 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> C:\Users\rhegde\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> C:\Users\rhegde\.sbt\boot\scala-2.10.4\lib\scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+7 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GMMClustering
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GMMClustering$
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GMMClustering$$anonfun$1
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GMMClustering$$anonfun$main$1
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeansClustering
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeansClustering$
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeansClustering$$anonfun$1
+used names:
+98 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> <init>
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> AnyRef
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> Array
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> ClassTag
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GMMClustering
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GaussianMixture
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> GaussianMixtureModel
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> MLUtils
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> Predef
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> SparkConf
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> SparkContext
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> String
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> Unit
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> Vectors
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> apache
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> apply
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> args
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> augmentString
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> clustering
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> conf
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> data1
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> features
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> foreach
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> format
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> gaussians
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> gmm
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> i
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> intWrapper
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> k
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> linalg
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> load
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> loadLibSVMFile
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> map
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> materializeClassTag
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> mllib
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> mu
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> org
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> package
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> parsedData
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> point
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> println
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> run
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> save
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> sc
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> scala
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> setAppName
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> setK
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> sigma
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> spark
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> until
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> util
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> weights
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> +
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> <init>
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> AnyRef
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> Array
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> ClassTag
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeans
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeansClustering
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> KMeansModel
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> MLUtils
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> Predef
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> SparkConf
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> SparkContext
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> String
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> Unit
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> VectorIndexer
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> Vectors
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> WSSSE
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> apache
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> apply
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> args
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> clustering
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> clusters
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> computeCost
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> conf
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> data1
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> feature
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> features
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> linalg
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> loadLibSVMFile
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> map
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> materializeClassTag
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> ml
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> mllib
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> numClusters
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> numIterations
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> org
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> package
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> parsedData
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> point
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> println
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> sc
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> scala
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> setAppName
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> spark
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> train
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> util
+product stamps:
+7 items
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$$anonfun$1.class -> lastModified(1436628853270)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$$anonfun$main$1.class -> lastModified(1436628853290)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering$.class -> lastModified(1436628853254)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\GMMClustering.class -> lastModified(1436628853239)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering$$anonfun$1.class -> lastModified(1436628853305)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering$.class -> lastModified(1436628853300)
+C:\Personal\midterm\Code\case3\target\scala-2.10\classes\KMeansClustering.class -> lastModified(1436628853294)
+source stamps:
+2 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> hash(458aac91070b8b92a6caaeae39cdcc1f547dfab0)
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> hash(6ce587bbde08200f418a53e627eaad1cb595c376)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar -> lastModified(1432046189834)
+C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar -> lastModified(1433966084000)
+C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar -> lastModified(1433966020000)
+C:\Users\rhegde\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> lastModified(1395179187000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar -> java.lang.Object
+C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-core_2.10\jars\spark-core_2.10-1.4.0.jar -> org.apache.spark.SparkContext$
+C:\Users\rhegde\.ivy2\cache\org.apache.spark\spark-mllib_2.10\jars\spark-mllib_2.10-1.4.0.jar -> org.apache.spark.mllib.clustering.KMeansModel$
+C:\Users\rhegde\.sbt\boot\scala-2.10.4\lib\scala-library.jar -> scala.Double
+internal apis:
+2 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHABtIWTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMKPRfV0AAZub3RpZnlzcQB+AAySXj1JdAAEd2FpdHNxAH4ADDS91G90AA0kYXNJbnN0YW5jZU9mc3EAfgAMDj2HRXQABmVxdWFsc3NxAH4ADKCm72N0AAxhc0luc3RhbmNlT2ZzcQB+AAx6+G6HdAAMc3luY2hyb25pemVkc3EAfgAMJqyPvHQADSRpc0luc3RhbmNlT2ZzcQB+AAym3csYdAAEbWFpbnNxAH4ADCA7RUN0AAlub3RpZnlBbGxzcQB+AAzOQkSMdAAMaXNJbnN0YW5jZU9mc3EAfgAMMKIL9XQADUdNTUNsdXN0ZXJpbmdzcQB+AAz87psUdAACPT1zcQB+AAyqweH5dAAFY2xvbmVzcQB+AAz/ZmEXdAAIdG9TdHJpbmdzcQB+AAxKFAakdAACIT1zcQB+AAxLtDTcdAAIZ2V0Q2xhc3NzcQB+AAx+liCXdAACbmVzcQB+AAxHqESydAACZXFzcQB+AAyl0k1zdAACIyNzcQB+AAzjmXLldAAIZmluYWxpemVzcQB+AAxS+2c/dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU59wJUVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEM6XFBlcnNvbmFsXG1pZHRlcm1cQ29kZVxjYXNlM1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAURYqskQcLi5Kmyq6uOc3MH1R9+rA=
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDLgBykAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJtbJMt0AAZub3RpZnlzcQB+AAw2GcaSdAAQS01lYW5zQ2x1c3RlcmluZ3NxAH4ADD0iJyJ0AAR3YWl0c3EAfgAMP97pBnQADSRhc0luc3RhbmNlT2ZzcQB+AAwhkPTBdAAGZXF1YWxzc3EAfgAMlPT94nQADGFzSW5zdGFuY2VPZnNxAH4ADCvygk90AAxzeW5jaHJvbml6ZWRzcQB+AAyvnefLdAANJGlzSW5zdGFuY2VPZnNxAH4ADBGtzO10AARtYWluc3EAfgAMt4QcmXQACW5vdGlmeUFsbHNxAH4ADFk0WR50AAxpc0luc3RhbmNlT2ZzcQB+AAwymuTHdAACPT1zcQB+AAwMt0eSdAAFY2xvbmVzcQB+AAyL7fVHdAAIdG9TdHJpbmdzcQB+AAzHZWVKdAACIT1zcQB+AAzLpEl8dAAIZ2V0Q2xhc3NzcQB+AAzrMY8AdAACbmVzcQB+AAxYfaBFdAACZXFzcQB+AAwTvIIldAACIyNzcQB+AAxmg2oddAAIZmluYWxpemVzcQB+AAwUHS+6dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ABF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU59wJUVdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEM6XFBlcnNvbmFsXG1pZHRlcm1cQ29kZVxjYXNlM1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUbOWHu94IIA9BilPmJ+qtHLWVw3Y=
+external apis:
+0 items
+source infos:
+2 items
+C:\Personal\midterm\Code\case3\src\main\scala\GMMClustering.scala -> 
+AAAAAAAAAAA=
+C:\Personal\midterm\Code\case3\src\main\scala\KMeansClustering.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn2JXF51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQUM6XFBlcnNvbmFsXG1pZHRlcm1cQ29kZVxjbGFzc2lmaWNhdGlvblx0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTn3AlRV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEM6XFBlcnNvbmFsXG1pZHRlcm1cQ29kZVxjYXNlM1x0YXJnZXRcc2NhbGEtMi4xMFxjbGFzc2VzdAABLw==
