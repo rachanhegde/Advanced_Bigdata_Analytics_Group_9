@@ -1,0 +1,815 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.6
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+48 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$1$$anonfun$apply$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$1.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$2.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$3.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$4.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$5.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$.class
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2.class
+binary dependencies:
+24 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+48 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1$$anonfun$5
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2$$anonfun$5
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1$$anonfun$5
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2$$anonfun$5
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1$$anonfun$5
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$1$$anonfun$apply$1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$3
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$4
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2$$anonfun$5
+used names:
+547 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> L1Updater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionModel
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> LogisticRegressionWithLBFGS_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> MLUtils
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> lrAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> optimization
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> setConvergenceTol
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> setNumClasses
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> setUpdater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> util
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> x
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> L1Updater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionModel
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> LogisticRegressionWithLBFGS_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> MLUtils
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> lrAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> optimization
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> setConvergenceTol
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> setNumClasses
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> util
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> x
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> L1Updater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionModel
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> LogisticRegressionWithSGD_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> MLUtils
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> lrAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> optimization
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> setNumIterations
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> setStepSize
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> setUpdater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> util
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> x
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionModel
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> LogisticRegressionWithSGD_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> MLUtils
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> lrAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> setNumIterations
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> setStepSize
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> util
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> x
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> L1Updater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SVMWithSGD_L1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> optimization
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> setNumIterations
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> setStepSize
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> setUpdater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> svmAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> x
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> !=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> +
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> /
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> <init>
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> AnyRef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Array
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> BinaryClassificationMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> ClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Delimeter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Double
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> L1Updater
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> LabeledPoint
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> MulticlassMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Predef
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SVMWithSGD_L2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SparkConf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> SparkContext
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> String
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Unit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> Vectors
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> _1
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> _2
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> apache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> apply
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> areaUnderROC
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> args
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> augmentString
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> bTestMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> bTrainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> cache
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> canBuildFrom
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> classification
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> conf
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> confusionMatrix
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> count
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> data
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> dense
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> doubleArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> evaluation
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> features
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> filter
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> label
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> labelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> linalg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> line
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> map
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> materializeClassTag
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> mllib
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> model
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> ne
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> optimization
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> optimizer
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> org
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> package
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> parsedData
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> parts
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> precision
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> predict
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> prediction
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> println
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> r
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> randomSplit
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> recall
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> refArrayOps
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> regression
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> run
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> sc
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> scala
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> setAppName
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> setIntercept
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> setNumIterations
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> setStepSize
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> slice
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> spark
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> split
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> splits
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> svmAlg
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> test
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> testErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> testMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> testlabelAndPreds
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> textFile
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> toArray
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> toDouble
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> trainErr
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> training
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> trainingMetrics
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> x
+product stamps:
+48 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938008184)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$1.class -> lastModified(1434938008169)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$2.class -> lastModified(1434938008200)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$3.class -> lastModified(1434938008211)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$4.class -> lastModified(1434938008224)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$$anonfun$5.class -> lastModified(1434938008235)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1$.class -> lastModified(1434938008130)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L1.class -> lastModified(1434938007939)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938008305)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$1.class -> lastModified(1434938008295)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$2.class -> lastModified(1434938008319)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$3.class -> lastModified(1434938008340)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$4.class -> lastModified(1434938008354)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$$anonfun$5.class -> lastModified(1434938008364)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2$.class -> lastModified(1434938008279)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithLBFGS_L2.class -> lastModified(1434938008243)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938008432)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$1.class -> lastModified(1434938008422)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$2.class -> lastModified(1434938008445)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$3.class -> lastModified(1434938008455)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$4.class -> lastModified(1434938008469)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$$anonfun$5.class -> lastModified(1434938008480)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1$.class -> lastModified(1434938008407)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L1.class -> lastModified(1434938008371)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938008549)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$1.class -> lastModified(1434938008539)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$2.class -> lastModified(1434938008562)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$3.class -> lastModified(1434938008572)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$4.class -> lastModified(1434938008585)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$$anonfun$5.class -> lastModified(1434938008596)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2$.class -> lastModified(1434938008523)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\LogisticRegressionWithSGD_L2.class -> lastModified(1434938008487)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938816530)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$1.class -> lastModified(1434938816515)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$2.class -> lastModified(1434938816557)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$3.class -> lastModified(1434938816569)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$4.class -> lastModified(1434938816583)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$$anonfun$5.class -> lastModified(1434938816593)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1$.class -> lastModified(1434938816477)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L1.class -> lastModified(1434938816301)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$1$$anonfun$apply$1.class -> lastModified(1434938816667)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$1.class -> lastModified(1434938816656)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$2.class -> lastModified(1434938816681)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$3.class -> lastModified(1434938816692)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$4.class -> lastModified(1434938816706)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$$anonfun$5.class -> lastModified(1434938816717)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2$.class -> lastModified(1434938816640)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\target\scala-2.11\classes\SVMWithSGD_L2.class -> lastModified(1434938816601)
+source stamps:
+6 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> hash(262dc2661e5ef8e3ed371d0c2d2995e1c309b8f2)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> hash(0674932dfcf969285b3ed6fe85fe6c34a06797ee)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> hash(f5057c35c6bf302e0ff3070cb9e1e2741c22cde1)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> hash(c6daaa0e123acc3ed080f28f17f0b20c14417c11)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> hash(5f500eb1797679d0f9d04bc73ede09555da4d96a)
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> hash(a02168d3fafc3d60c627d4d47ded234aec2e3ffb)
+binary stamps:
+4 items
+C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar -> lastModified(1431627670815)
+C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar -> lastModified(1433966234000)
+C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar -> lastModified(1433966296000)
+C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> lastModified(1424912463000)
+class names:
+4 items
+C:\Program Files\Java\jdk1.7.0_79\jre\lib\rt.jar -> java.lang.Object
+C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.4.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\Rachan\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.4.0.jar -> org.apache.spark.mllib.optimization.L1Updater
+C:\Users\Rachan\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.6.jar -> scala.MatchError
+internal apis:
+6 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDbmRQNAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cEaXKc90AAZub3RpZnlzcQB+AAzV0w1hdAAEd2FpdHNxAH4ADE9Sb+B0AA0kYXNJbnN0YW5jZU9mc3EAfgAMN6nRHHQABmVxdWFsc3NxAH4ADIIhyAZ0AB5Mb2dpc3RpY1JlZ3Jlc3Npb25XaXRoTEJGR1NfTDFzcQB+AAzqllzYdAAMYXNJbnN0YW5jZU9mc3EAfgAM23wy4HQADHN5bmNocm9uaXplZHNxAH4ADDiR1BB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMOzTU33QABG1haW5zcQB+AAx8xo5EdAAJbm90aWZ5QWxsc3EAfgAM8EGtFHQADGlzSW5zdGFuY2VPZnNxAH4ADMQfq910AAI9PXNxAH4ADGtS+0R0AAVjbG9uZXNxAH4ADErFJu10AAh0b1N0cmluZ3NxAH4ADLUp2QR0AAIhPXNxAH4ADMjTX1N0AAhnZXRDbGFzc3NxAH4ADE0B8Ml0AAJuZXNxAH4ADBZkaJ90AAJlcXNxAH4ADNuzdHx0AAIjI3NxAH4ADDampiJ0AAhmaW5hbGl6ZXNxAH4ADPUCU9V0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AF3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFgAcHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGFzcQB+AFgAcHNxAH4AXXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AHF0AAVBcnJheXEAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHF0AAZTdHJpbmdzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQABGxhbmdxAH4AgnNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgCWAAAAAnNxAH4AcXQABk9iamVjdHEAfgCac3EAfgBxdAADQW55cQB+AHd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABThj4DcZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQQzpcU2NhbGFcQ2xhc3NpZmljYXRpb25cTG9naXN0aWNSZWdyZXNzaW9uV2l0aExCRkdTLUwxXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQmLcJmHl744+03HQwtKZXhwwm48g==
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAXTZYOAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDB/xfF0AAZub3RpZnlzcQB+AAyz+iCvdAAEd2FpdHNxAH4ADHsFR290AA0kYXNJbnN0YW5jZU9mc3EAfgAM6uXa0nQABmVxdWFsc3NxAH4ADJeR1zd0AAxhc0luc3RhbmNlT2ZzcQB+AAyhrztHdAAMc3luY2hyb25pemVkc3EAfgAMmnhO2nQAHkxvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHU19MMnNxAH4ADJxwpUB0AA0kaXNJbnN0YW5jZU9mc3EAfgAMNQs4QXQABG1haW5zcQB+AAyhEBIfdAAJbm90aWZ5QWxsc3EAfgAMFVBIJnQADGlzSW5zdGFuY2VPZnNxAH4ADJoC5Ol0AAI9PXNxAH4ADIWjrsN0AAVjbG9uZXNxAH4ADNraZHd0AAh0b1N0cmluZ3NxAH4ADEy2FFV0AAIhPXNxAH4ADIIA0BJ0AAhnZXRDbGFzc3NxAH4ADPd7FDV0AAJuZXNxAH4ADHrkOoZ0AAJlcXNxAH4ADPLhgzF0AAIjI3NxAH4ADFlJJnh0AAhmaW5hbGl6ZXNxAH4ADPA/QoB0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AG3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFl4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFgAcHNxAH4AXXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBBTAAJaW5oZXJpdGVkcQB+AEFMAAdwYXJlbnRzcQB+AEF4cQB+AGFzcQB+AFgAcHNxAH4AXXVxAH4APAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AQnEAfgBLdXEAfgBMAAAAAHNxAH4ATgBxAH4AH3VxAH4AUAAAAABzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBgdAAEVW5pdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AfnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AGt4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AFN0AAVQbGFpbnQABGFyZ3NzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AHJbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AGBzcQB+AHF0AAVBcnJheXEAfgB3dXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AHF0AAZTdHJpbmdzcQB+AHVzcQB+AHh1cQB+AHsAAAADc3EAfgB9dAAEamF2YXNxAH4AfXQABGxhbmdxAH4AgnNxAH4AWABwc3EAfgBddXEAfgA8AAAAAHNxAH4AWABwc3EAfgBddXEAfgCWAAAAAnNxAH4AcXQABk9iamVjdHEAfgCac3EAfgBxdAADQW55cQB+AHd1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABThj4DcZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABQQzpcU2NhbGFcQ2xhc3NpZmljYXRpb25cTG9naXN0aWNSZWdyZXNzaW9uV2l0aExCRkdTLUwxXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQGdJMt/PlpKFs+1v6F/mw0oGeX7g==
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCibOfHAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cPsL8vt0AAZub3RpZnlzcQB+AAzm3PZQdAAEd2FpdHNxAH4ADM6aHQp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMLkEAi3QABmVxdWFsc3NxAH4ADMhnw2V0AAxhc0luc3RhbmNlT2ZzcQB+AAzFlPjsdAAMc3luY2hyb25pemVkc3EAfgAMEN1gjXQADSRpc0luc3RhbmNlT2ZzcQB+AAzNIz3JdAAEbWFpbnNxAH4ADHB+Gxt0AAlub3RpZnlBbGxzcQB+AAyXOJ+0dAAMaXNJbnN0YW5jZU9mc3EAfgAMJsFlNXQAAj09c3EAfgAMBbdQ/HQABWNsb25lc3EAfgAMwEQofXQAHExvZ2lzdGljUmVncmVzc2lvbldpdGhTR0RfTDFzcQB+AAy/di2ndAAIdG9TdHJpbmdzcQB+AAy+zTgjdAACIT1zcQB+AAyetWYVdAAIZ2V0Q2xhc3NzcQB+AAybjbcQdAACbmVzcQB+AAyA/aXNdAACZXFzcQB+AAzyypIadAACIyNzcQB+AAxSQW1tdAAIZmluYWxpemVzcQB+AAwV3cS0dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4Y+A3GdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU9QV8Nca/MC4P8wcMueHidBwizeE=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDg4Q/WAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCgBQsR0AAZub3RpZnlzcQB+AAy5p+rDdAAEd2FpdHNxAH4ADGMjUf50AA0kYXNJbnN0YW5jZU9mc3EAfgAMl+ZECnQABmVxdWFsc3NxAH4ADK+bdTJ0AAxhc0luc3RhbmNlT2ZzcQB+AAxE0oOCdAAMc3luY2hyb25pemVkc3EAfgAMcL/inHQADSRpc0luc3RhbmNlT2ZzcQB+AAxCKS2bdAAEbWFpbnNxAH4ADObKN1J0AAlub3RpZnlBbGxzcQB+AAymvrIfdAAMaXNJbnN0YW5jZU9mc3EAfgAMhztc+XQAHExvZ2lzdGljUmVncmVzc2lvbldpdGhTR0RfTDJzcQB+AAywhuavdAACPT1zcQB+AAzSicWpdAAFY2xvbmVzcQB+AAxKgimLdAAIdG9TdHJpbmdzcQB+AAwZD+70dAACIT1zcQB+AAxzwaKLdAAIZ2V0Q2xhc3NzcQB+AAzGGQXrdAACbmVzcQB+AAzFFTVrdAACZXFzcQB+AAxp+FJmdAACIyNzcQB+AAwkGjN/dAAIZmluYWxpemVzcQB+AAwNfyhBdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4Y+A3GdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUxtqqDhI6zD7QgPKPF/CyDBRBfBE=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHChSzZrAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAt/3ml0AAZub3RpZnlzcQB+AAyeaCxBdAAEd2FpdHNxAH4ADPJK3Zp0AA0kYXNJbnN0YW5jZU9mc3EAfgAMwCi5XXQABmVxdWFsc3NxAH4ADI6R8FV0AAxhc0luc3RhbmNlT2ZzcQB+AAweAYMPdAAMc3luY2hyb25pemVkc3EAfgAM7gyUbXQADSRpc0luc3RhbmNlT2ZzcQB+AAwtc2andAAEbWFpbnNxAH4ADCEUnWl0AAlub3RpZnlBbGxzcQB+AAyDfjt7dAANU1ZNV2l0aFNHRF9MMXNxAH4ADF6x3vN0AAxpc0luc3RhbmNlT2ZzcQB+AAxaHOr5dAACPT1zcQB+AAxgeEBldAAFY2xvbmVzcQB+AAwNyyrRdAAIdG9TdHJpbmdzcQB+AAyccCxydAACIT1zcQB+AAxo0BLldAAIZ2V0Q2xhc3NzcQB+AAyh+200dAACbmVzcQB+AAxW+tVJdAACZXFzcQB+AAyh1ZfXdAACIyNzcQB+AAyYiPdedAAIZmluYWxpemVzcQB+AAzHEWIddAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4ZBG5ZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUX1AOsXl2edD50EvHPt4JVV2k2Wo=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAPZ6RqAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOP9wnl0AAZub3RpZnlzcQB+AAxCccmMdAAEd2FpdHNxAH4ADNynCpx0AA0kYXNJbnN0YW5jZU9mc3EAfgAMhAYwn3QABmVxdWFsc3NxAH4ADKYug8R0AAxhc0luc3RhbmNlT2ZzcQB+AAz9tXPBdAAMc3luY2hyb25pemVkc3EAfgAM1LZNVnQADSRpc0luc3RhbmNlT2ZzcQB+AAye/s29dAAEbWFpbnNxAH4ADKMPNFh0AAlub3RpZnlBbGxzcQB+AAwwijbYdAAMaXNJbnN0YW5jZU9mc3EAfgAMdlXyOXQADVNWTVdpdGhTR0RfTDJzcQB+AAzu/LGsdAACPT1zcQB+AAxOztKpdAAFY2xvbmVzcQB+AAwgRCxQdAAIdG9TdHJpbmdzcQB+AAyNrc1adAACIT1zcQB+AAzaUOAmdAAIZ2V0Q2xhc3NzcQB+AAxDNrMZdAACbmVzcQB+AAyeixeedAACZXFzcQB+AAwyIPfidAACIyNzcQB+AAwTv8MTdAAIZmluYWxpemVzcQB+AAwz5+VXdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAU4ZBG5ZdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUoCFo0/r8PWDGJ9TUfe0jSuwuP/s=
+external apis:
+0 items
+source infos:
+6 items
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L1.scala -> 
+AAAAAAAAAAA=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithLBFGS_L2.scala -> 
+AAAAAAAAAAA=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L1.scala -> 
+AAAAAAAAAAA=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\LogisticRegressionWithSGD_L2.scala -> 
+AAAAAAAAAAA=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L1.scala -> 
+AAAAAAAAAAA=
+C:\Scala\Classification\LogisticRegressionWithLBFGS-L1\src\main\scala\SVMWithSGD_L2.scala -> 
+AAAAAAAAAAA=
+compilations:
+2 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABThj4DcZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABThkEbll1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAUEM6XFNjYWxhXENsYXNzaWZpY2F0aW9uXExvZ2lzdGljUmVncmVzc2lvbldpdGhMQkZHUy1MMVx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABLw==
