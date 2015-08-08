@@ -1,0 +1,67 @@
+Kafka Word Count Example :
+
+KafkaWordCount:
+
+SSH to EC2 UBUNTU EC2 instance
+
+Step 1) Install Zookeeper and start
+
+	$ wget http://mirrors.ukfast.co.uk/sites/ftp.apache.org/zookeeper/stable/zookeeper-3.4.6.tar.gz
+	$ tar -xvf zookeeper-3.4.6.tar.gz
+	$ cd zookeeper-3.4.6/
+	$ cp conf/zoo_sample.cfg conf/zoo.cfg
+	START Zookeeper
+	$ bin/zkServer.sh start
+
+Step 2) Install kafka and start
+	$ wget http://supergsego.com/apache/kafka/0.8.2.1/kafka_2.10-0.8.2.1.tgz
+	$ tar xvzf kafka_2.10-0.8.2.1.tgz
+	$ cd kafka_2.10-0.8.2.1
+	START KAFKA
+	$ bin/kafka-server-start.sh config/server.properties
+
+Step 3) Create Kafka Topic
+	./bin/kafka-topics.sh --create --zookeeper localhost:2181 --replication-factor 1 --partitions 1 --topic sparkstreamingtopic
+
+	//Test KAFKA installation
+
+Step 4) Start a Producer
+	./bin/kafka-console-producer.sh --broker-list localhost:9092 --topic kafkatopic
+
+
+Step 5) Start a Consumer :
+	./bin/kafka-console-consumer.sh --zookeeper localhost:2181 --topic kafkatopic --from-beginning
+
+
+
+SSH to EMR 3.8 instance (EMR 4.0 was giving some issue with running the producer)
+
+
+a.     Create AMAZON EMR 4.0 instance
+
+ 
+
+b.     sudo chmod -R 777 $SPARK_HOME (usr/lib/spark)
+
+ 
+
+c.      cd $SPARK_HOME
+
+ 	
+Download spark-streaming-kafka-assembly_2.10-1.4.1.jar Maven repositry
+
+
+d.     wget http://central.maven.org/maven2/org/apache/spark/spark-streaming-kafka-assembly_2.10/1.4.1/spark-streaming-kafka-assembly_2.10-1.4.1.jar
+
+ 
+Run Scala KafkaWordCountProducer
+
+e.     bin/run-example org.apache.spark.examples.streaming.KafkaWordCountProducer <EC2 instance where Kafka is installed>:9092 sparkstreamingtopic 10 5
+
+ 
+Run python kafka word count example with assembly jar file
+
+f.       bin/spark-submit --jars spark-streaming-kafka-assembly_2.10-1.4.1.jar examples/src/main/python/streaming/kafka_wordcount.py  <EC2 instance where Kafka is installed>:2181 sparkstreamingtopic
+
+
+

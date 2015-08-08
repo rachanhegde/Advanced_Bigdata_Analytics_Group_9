@@ -1,0 +1,26 @@
+Kinesis Word Count ASL:
+
+1) Create Amazon EMR 3.8.0 instance
+
+2) Create Kinesis stream Stream name  = KinesisStream
+
+	endpoint URL = 	kinesis.us-east-1.amazonaws.com
+
+SSH to Amazon EMR instance
+
+1) export AWS_ACCESS_KEY_ID=AKIAJ4UEWFMTES5WS3QA 
+   export AWS_SECRET_KEY=fUZ0pYlV9temPMl7zLdlunRaalR4CQLcDKDaxgWt
+
+
+2)
+
+./bin/run-example org.apache.spark.examples.streaming.KinesisWordCountProducerASL KinesisStream https://kinesis.us-east-1.amazonaws.com 1000 10
+
+3) open a new terminal
+
+./bin/run-example org.apache.spark.examples.streaming.KinesisWordCountASL KinesisStream https://kinesis.us-east-1.amazonaws.com
+
+
+
+
+

@@ -1,0 +1,11 @@
+TwitterPopularTags scala ----
+
+1) Create Amazon EMR instance
+
+2) ssh into the instance
+
+3) $SPARK_HOME/bin/run-example org.apache.spark.examples.streaming.TwitterPopularTags mLobzJMmrykaDuyl2uFrcD2Ez jcDFI0rJfJEX8iIOrp5FSyyiXUY6N47cCK5Kcd76rhdFQ6rr83 617055111-iJ3IwVnapgotpwhqgMcXVY8mPQKDZVzajQbQ4Uou isDwmwHCuft1INvJCHI3gMxOIsU33hcEBe69Xt7CJt0aE
+
+
+
+Filters used : <consumer key> <consumer secret> access token> <access token secret>

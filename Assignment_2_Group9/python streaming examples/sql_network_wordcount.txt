@@ -1,0 +1,53 @@
+sql_network_wordcount
+
+SSH to EC2 UBUNTU instance or AMAZON EMR with SPARK installed
+
+Step 1) Get spark package
+
+	wget http://apache.claz.org/spark/spark-1.4.1/spark-1.4.1-bin-hadoop2.6.tgz 
+
+	tar -xvf spark-1.4.1-bin-hadoop2.6.tgz
+ 
+	chmod -R 777 spark-1.4.1-bin-hadoop2.6
+
+	cd spark-1.4.1-bin-hadoop2.6/
+
+Step 3) Start Netcat server
+	
+	nc -lk 9999
+
+Step 4) New Terminal
+	
+	spark-1.4.1-bin-hadoop2.6/bin/spark-submit examples/src/main/python/streaming/sql_network_wordcount.py localhost 9999
+
+Step 5) Type something on net cat server  and view the output in spark-submit logs
+	
+	
+
+
+Sample Out put:
++-------------+-----+
+|         word|total|
++-------------+-----+
+|         back|    1|
+|       anyone|    1|
+|         your|    1|
+|     supports|    1|
+|         with|    2|
+|      release|    1|
+|           to|    2|
+| applications|    1|
+|     releases|    2|
+|compatibility|    1|
+|      ZeroMQ.|    1|
+|       ZeroMQ|    1|
+|          4.x|    1|
+|          All|    1|
+|          and|    1|
+|   developing|    1|
+|           it|    1|
+|        v4.x.|    1|
+|          see|    1|
+|      binding|    1|
++-------------+-----+
+

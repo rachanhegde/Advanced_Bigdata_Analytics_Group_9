@@ -1,0 +1,63 @@
+Flume event count example:
+
+Step 1) Download and Install Flume 
+
+	wget http://apache.mirror.triple-it.nl/flume/1.6.0/apache-flume-1.6.0-bin.tar.gz
+
+	tar xvzf apache-flume-1.6.0-bin.tar.gz
+
+	rm apache-flume-1.6.0-bin.tar.gz
+
+	cp apache-flume-1.6.0-bin/conf/flume-conf.properties.template apache-flume-1.6.0-bin/conf/flume.conf
+
+	cd apache-flume-1.6.0-bin/
+
+	vim conf/flume.conf
+
+Add below configuration details
+
+agent.sources = javaavrorpc
+agent.channels = memoryChannel
+agent.sinks = sparkstreaming
+agent.sources.javaavrorpc.type = netcat
+agent.sources.javaavrorpc.bind = localhost
+agent.sources.javaavrorpc.port = 42222
+agent.sources.javaavrorpc.channels = memoryChannel
+agent.sinks.sparkstreaming.type = avro
+agent.sinks.sparkstreaming.hostname = localhost
+agent.sinks.sparkstreaming.port = 43333
+agent.sinks.sparkstreaming.channel = memoryChannel
+agent.channels.memoryChannel.type = memory
+agent.channels.memoryChannel.capacity = 10000
+agent.channels.memoryChannel.transactionCapacity = 1000
+
+
+Step 2) Start flume agent
+
+./bin/flume-ng agent --conf conf --conf-file conf/flume.conf --name agent -Dflume.root.logger=INFO,console
+
+Step 5)
+Start Spark scala Flume even count example
+
+$SPARK_HOME/bin/run-example org.apache.spark.examples.streaming.FlumeEventCount localhost 43333
+
+Step 6)
+
+Telnet and type text into it
+
+open new terminal 
+
+Telnet localhost 42222
+
+
+
+
+
+
+
+
+
+
+
+
+

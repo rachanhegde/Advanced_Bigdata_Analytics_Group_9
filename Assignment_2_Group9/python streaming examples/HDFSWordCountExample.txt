@@ -1,0 +1,35 @@
+HdfsWordCount: Using S3 Bucket
+=============================
+
+Step 1) Create S3 bucket s3://group9assignment2/data
+
+SSH to Amazon EMR instance
+
+Execute HDFS Word Count example
+
+Step 2) $SPARK_HOME/bin/spark-submit examples/src/main/python/streaming/hdfs_wordcount.py s3://group9assignment2/data
+
+
+Step 3) Upload files to S3 bucket <s3://group9assignment2/data>
+
+ 
+
+HdfsWordCount: Using HDFS
+===========================
+
+SSH to Amazon EMR instance
+
+Create a HDFS directory
+
+Step 1) hadoop fs -mkdir /input
+
+
+Execute HDFS Word Count example
+
+Step 2) $SPARK_HOME/bin/spark-submit examples/src/main/python/streaming/hdfs_wordcount.py /input
+
+Upload files
+
+Step 3) hadoop fs -put /usr/lib/spark/data/mllib/*.txt /input
+
+Step 4) hadoop fs -put /usr/lib/spark/examples/src/main/resources/*.txt /input

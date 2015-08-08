@@ -1,0 +1,13 @@
+MQTTWordCount:
+
+ssh to UBUNTU EC2 instance
+
+Step 1) Install MQTT broker(Mosquitto) on UBUNTU EC2 instance
+	$ sudo apt-get install mosquitto
+
+SSH to EMR instance:
+
+Step 2) $SPARK_HOME/bin/run-example org.apache.spark.examples.streaming.MQTTPublisher tcp://<EC2 instance where MQTT is running>:1883 test
+
+Step 3) $SPARK_HOME/bin/run-example org.apache.spark.examples.streaming.MQTTWordCount tcp://<EC2 instance where MQTT is running>:1883 test
+
